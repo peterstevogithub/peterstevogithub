@@ -1,0 +1,10 @@
+GIT-used to store information
+to manage project
+to track changes made in your codes
+GIT checkout used to  switch from 
+GIT commit 
+used to commit changes
+CD to change directories
+GIT STATUS used to check your status
+GIT IN IT used in inisolizing git your folder
+DIR it contents your folder
